@@ -45,7 +45,7 @@ Correlation heatmaps to analyze rating consistency.
 
 **📂 Project Structure**
 📁 Hotel_Review_Sentiment_Analysis  
- ├── 📜 data/hotelreviews.csv (Original dataset)  
+ ├── 📜 data/hotelreviews.csv (Original set)  
  ├── 📜 notebooks/data_cleaning.ipynb  
  ├── 📜 notebooks/sentiment_analysis.ipynb  
  ├── 📜 notebooks/visualization.ipynb  
